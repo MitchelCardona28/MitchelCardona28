@@ -5,7 +5,7 @@ My name is Brandon Mitchel Arboleda Cardona and I'm 28 years old. Over the past 
 
 During my self-directed learning journey, I have faced real-life challenges that have broadened my knowledge and taught me patience when the desired results are not attained. I employ a creative problem-solving approach, which allows me to break down problems into smaller details for thorough analysis.
 
-/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 Soy Brandon Mitchel Arboleda Cardona y tengo 28 años de edad. Durante el último año, he estado aprendiendo activamente los conceptos fundamentales del desarrollo web, así como las herramientas enumeradas en mi resumen de habilidades. Me apasiona explorar nuevos conceptos y técnicas de desarrollo web para seguir mejorando mis habilidades.<br><br>En mi trayectoria de aprendizaje autónomo, me he enfrentado a retos de la vida real que han ampliado mis conocimientos y me han enseñado a ser paciente cuando no se obtienen los resultados esperados. Empleo un enfoque creativo para la resolución de problemas, que me permite dividirlos en pequeños detalles para analizarlos en profundidad.
 
